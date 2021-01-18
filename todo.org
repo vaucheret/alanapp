@@ -1,0 +1,6 @@
+* tareas [2/4]
+  - [ ] git
+  - [X] poner foto
+  - [X] poner css
+  - [ ] login
+

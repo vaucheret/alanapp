@@ -1,0 +1,1367 @@
+
+=INFO REPORT==== 8-Jan-2021::12:25:01 ===
+Yaws: Listening to 0.0.0.0:8000 for <1> virtual servers:
+ - http://simple_bridge:8000 under ./site/static
+
+=INFO REPORT==== 8-Jan-2021::12:25:10 ===
+/home/cv/.yaws/yaws/simple_bridge/yaws_dynopts.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:25:10 ===
+/home/cv/tmp/erlang/web/alanapp/lib/yaws/src/yaws_dynopts.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:25:11 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:25:12 ===
+/home/cv/tmp/erlang/web/alanapp/lib/simple_bridge/src/webmachine_bridge_modules/webmachine_simple_bridge_static.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:25:21 ===
+/home/cv/.yaws/yaws/simple_bridge/yaws_dynopts.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:25:21 ===
+/home/cv/tmp/erlang/web/alanapp/lib/yaws/src/yaws_dynopts.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:25:22 ===
+/home/cv/.yaws/yaws/simple_bridge/yaws_dynopts.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:25:22 ===
+/home/cv/tmp/erlang/web/alanapp/lib/yaws/src/yaws_dynopts.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:25:26 ===
+Recaching Template: ./site/templates/bare.html
+
+=ERROR REPORT==== 8-Jan-2021::12:28:31 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:12: Error: syntax error before: '<'
+
+=ERROR REPORT==== 8-Jan-2021::12:28:36 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:12: Error: syntax error before: body
+
+=ERROR REPORT==== 8-Jan-2021::12:28:44 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:16: Error: syntax error before: 
+
+=INFO REPORT==== 8-Jan-2021::12:28:52 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:28:52 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::12:28:56 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 8-Jan-2021::12:29:41 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:29:41 ===
+index: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 8-Jan-2021::12:31:51 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:16: Error: syntax error before: '<'
+
+=ERROR REPORT==== 8-Jan-2021::12:31:58 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:18: Error: syntax error before: text
+
+=INFO REPORT==== 8-Jan-2021::12:32:08 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:32:08 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::12:34:30 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:34:30 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::12:35:25 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:35:25 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::12:53:56 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::12:53:56 ===
+index: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 8-Jan-2021::16:09:31 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:19: Error: syntax error before: fa
+
+=INFO REPORT==== 8-Jan-2021::16:09:47 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:09:47 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:11:05 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:11:05 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:12:16 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:12:16 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:17:44 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:17:44 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:29:52 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:29:52 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:32:58 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:32:58 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:33:16 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:33:16 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:33:34 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:33:34 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:34:31 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:34:31 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:35:34 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:35:34 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::16:35:42 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 8-Jan-2021::16:38:44 ===
+Recaching Template: ./site/templates/bare.html
+
+=ERROR REPORT==== 8-Jan-2021::16:41:23 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:12: Error: syntax error before: '<'
+
+=ERROR REPORT==== 8-Jan-2021::16:41:38 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:12: Error: syntax error before: " class="
+
+=INFO REPORT==== 8-Jan-2021::16:41:48 ===
+Recaching Template: ./site/templates/bare.html
+
+=ERROR REPORT==== 8-Jan-2021::16:47:24 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:20: Error: syntax error before: " class="
+
+=INFO REPORT==== 8-Jan-2021::16:51:55 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::16:51:55 ===
+index: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 8-Jan-2021::20:03:54 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:34: Error: syntax error before: fa
+
+=INFO REPORT==== 8-Jan-2021::20:04:07 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::20:04:07 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::20:07:18 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::20:07:18 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::20:19:30 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 8-Jan-2021::20:22:29 ===
+/home/cv/tmp/erlang/web/alanapp/lib/yaws/src/yaws_generated.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::20:22:29 ===
+yaws_generated: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::20:26:15 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 8-Jan-2021::20:43:18 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::20:44:34 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::20:44:34 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::20:45:01 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::20:45:01 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::20:45:16 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::20:45:16 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::20:47:02 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::20:47:02 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:13:56 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:13:56 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:14:59 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:14:59 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:15:08 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::21:15:51 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:15:51 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:34:04 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:34:04 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:35:24 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:35:24 ===
+index: Reloaded! (Beam changed.)
+
+=WARNING REPORT==== 8-Jan-2021::21:39:33 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:19: Warning: variable 'Selected' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled with 1 warnings
+
+=INFO REPORT==== 8-Jan-2021::21:39:33 ===
+n_menus: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 8-Jan-2021::21:42:59 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:20: Error: function classselected/2 undefined
+
+=INFO REPORT==== 8-Jan-2021::21:43:09 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:43:09 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:45:00 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:45:00 ===
+n_menus: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 8-Jan-2021::21:45:56 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:17: Error: function displaymenu/2 undefined
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:21: Error: syntax error before: '#'
+
+=INFO REPORT==== 8-Jan-2021::21:45:59 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:45:59 ===
+n_menus: Reloaded! (Beam changed.)
+
+=WARNING REPORT==== 8-Jan-2021::21:47:54 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:20: Warning: variable 'Class' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled with 1 warnings
+
+=INFO REPORT==== 8-Jan-2021::21:47:55 ===
+n_menus: Reloaded! (Beam changed.)
+
+=WARNING REPORT==== 8-Jan-2021::21:48:40 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:19: Warning: variable 'Selected' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled with 1 warnings
+
+=INFO REPORT==== 8-Jan-2021::21:48:40 ===
+n_menus: Reloaded! (Beam changed.)
+
+=WARNING REPORT==== 8-Jan-2021::21:49:26 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:19: Warning: variable 'Selected' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled with 1 warnings
+
+=INFO REPORT==== 8-Jan-2021::21:49:26 ===
+n_menus: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 8-Jan-2021::21:50:11 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:16: Warning: variable 'Selected' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:17: Error: function displaymenu/1 undefined
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:19: Warning: variable 'Selected' is unused
+
+=WARNING REPORT==== 8-Jan-2021::21:50:17 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:16: Warning: variable 'Selected' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled with 1 warnings
+
+=INFO REPORT==== 8-Jan-2021::21:50:17 ===
+n_menus: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 8-Jan-2021::21:51:13 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:13: Error: variable 'Selected' is unbound
+
+=INFO REPORT==== 8-Jan-2021::21:51:24 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:51:24 ===
+index: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 8-Jan-2021::21:51:57 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:17: Error: function displaymenu/2 undefined
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:20: Error: variable 'Selected' is unbound
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:20: Warning: variable 'Class' is unused
+
+=WARNING REPORT==== 8-Jan-2021::21:52:09 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:20: Warning: variable 'Class' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled with 1 warnings
+
+=INFO REPORT==== 8-Jan-2021::21:52:09 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:52:37 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:52:37 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:52:58 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::21:53:58 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:53:58 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:54:08 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:54:08 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:54:44 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:54:44 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:55:40 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:55:40 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:56:12 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::21:56:12 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::21:56:20 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::21:56:34 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:01:02 ===
+    application: sync
+    exited: stopped
+    type: temporary
+
+=INFO REPORT==== 8-Jan-2021::22:01:07 ===
+stop_ready([], <0.2329.2>)
+
+=INFO REPORT==== 8-Jan-2021::22:01:13 ===
+Yaws: Listening to 0.0.0.0:8000 for <1> virtual servers:
+ - http://simple_bridge:8000 under ./site/static
+
+=INFO REPORT==== 8-Jan-2021::22:01:17 ===
+Trying to create ETS table (nitro_cache_nitrogen) that already exists, but we are already the owner, so that's okay.
+=INFO REPORT==== 8-Jan-2021::22:03:45 ===
+    application: sync
+    exited: stopped
+    type: temporary
+
+=INFO REPORT==== 8-Jan-2021::22:03:47 ===
+stop_ready([], <0.142.0>)
+
+=INFO REPORT==== 8-Jan-2021::22:03:52 ===
+Yaws: Listening to 0.0.0.0:8000 for <1> virtual servers:
+ - http://simple_bridge:8000 under ./site/static
+
+=INFO REPORT==== 8-Jan-2021::22:03:52 ===
+Trying to create ETS table (nitro_cache_nitrogen) that already exists, but we are already the owner, so that's okay.
+=INFO REPORT==== 8-Jan-2021::22:07:48 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/account_db_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:07:48 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/n_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:07:49 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/nnote_db_mnesia.erl:0: Recompiled.
+
+=ERROR REPORT==== 8-Jan-2021::22:07:56 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/nnote_db_mnesia.erl:none: Error: no such file or directory
+
+=INFO REPORT==== 8-Jan-2021::22:09:59 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/nitrogen_sup.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:09:59 ===
+nitrogen_sup: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::22:24:59 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:27:46 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:27:46 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::22:27:52 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 8-Jan-2021::22:27:58 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:29:21 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:29:21 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::22:31:51 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:31:51 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::22:33:22 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:33:22 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::22:33:33 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 8-Jan-2021::22:35:06 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:37:40 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:47:30 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:47:30 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::22:48:11 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:48:11 ===
+index: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 8-Jan-2021::22:50:18 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Error: Module definition (index) differs from expected (login)
+
+=INFO REPORT==== 8-Jan-2021::22:51:34 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:51:45 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:51:50 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:52:00 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:52:41 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:52:41 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::22:52:48 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:52:52 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:54:09 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:54:09 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::22:54:13 ===
+Page not found: "/account"
+
+=INFO REPORT==== 8-Jan-2021::22:54:22 ===
+{error,postback_request,
+    {url,"localhost:8000/"},
+    {error,undef,
+        [{index,event,[account],[]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,[{file,"src/nitrogen.erl"},{line,69}]},
+         {nitrogen,ws_message,3,[{file,"src/nitrogen.erl"},{line,59}]},
+         {yaws_simple_bridge_anchor,handle_message,2,
+             [{file,"src/yaws_bridge_modules/yaws_simple_bridge_anchor.erl"},
+              {line,57}]},
+         {yaws_websockets,basic_messages,3,
+             [{file,"src/yaws_websockets.erl"},{line,623}]},
+         {yaws_websockets,handle_frames,2,
+             [{file,"src/yaws_websockets.erl"},{line,520}]},
+         {gen_server,try_dispatch,4,[{file,"gen_server.erl"},{line,680}]},
+         {gen_server,handle_msg,6,[{file,"gen_server.erl"},{line,756}]},
+         {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,226}]}]}}
+
+=INFO REPORT==== 8-Jan-2021::22:57:26 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::22:57:26 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::23:09:28 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::23:09:28 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 8-Jan-2021::23:09:48 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 8-Jan-2021::23:09:48 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::01:07:51 ===
+stop_ready([], <0.28535.0>)
+
+=INFO REPORT==== 9-Jan-2021::10:11:59 ===
+Yaws: Listening to 0.0.0.0:8000 for <1> virtual servers:
+ - http://simple_bridge:8000 under ./site/static
+
+=INFO REPORT==== 9-Jan-2021::10:12:29 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 9-Jan-2021::10:22:00 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::10:22:00 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::10:25:49 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::10:30:50 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::10:30:50 ===
+n_common: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::10:31:48 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::10:31:48 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::10:32:09 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::10:32:09 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::10:41:04 ===
+stop_ready([], <0.10256.0>)
+
+=INFO REPORT==== 9-Jan-2021::10:41:09 ===
+Yaws: Listening to 0.0.0.0:8000 for <1> virtual servers:
+ - http://simple_bridge:8000 under ./site/static
+
+=INFO REPORT==== 9-Jan-2021::10:41:14 ===
+Trying to create ETS table (nitro_cache_nitrogen) that already exists, but we are already the owner, so that's okay.
+=INFO REPORT==== 9-Jan-2021::10:41:17 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 9-Jan-2021::10:42:50 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::10:42:50 ===
+n_common: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::10:42:54 ===
+Recaching Template: ./site/templates/mobile.html
+
+=INFO REPORT==== 9-Jan-2021::10:51:59 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::10:51:59 ===
+n_common: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::10:53:26 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::10:53:26 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::10:53:35 ===
+{error,first_request,
+       {url,"localhost:8000/"},
+       {error,undef,
+              [{n_utils,get_user_id,[],[]},
+               {n_common,can_access,1,
+                         [{file,"/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl"},
+                          {line,24}]},
+               {n_common,template,0,
+                         [{file,"/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl"},
+                          {line,9}]},
+               {wf_core,run_first_request,0,
+                        [{file,"src/wf_core.erl"},{line,228}]},
+               {wf_core,run_catched,0,[{file,"src/wf_core.erl"},{line,90}]},
+               {wf_core,run,0,[{file,"src/wf_core.erl"},{line,23}]},
+               {yaws_server,deliver_dyn_part,8,
+                            [{file,"src/yaws_server.erl"},{line,2918}]},
+               {yaws_server,aloop,4,
+                            [{file,"src/yaws_server.erl"},{line,1274}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::11:04:39 ===
+{error,first_request,
+       {url,"localhost:8000/"},
+       {error,undef,
+              [{n_utils,get_user_id,[],[]},
+               {n_common,can_access,1,
+                         [{file,"/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl"},
+                          {line,24}]},
+               {n_common,template,0,
+                         [{file,"/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl"},
+                          {line,9}]},
+               {wf_core,run_first_request,0,
+                        [{file,"src/wf_core.erl"},{line,228}]},
+               {wf_core,run_catched,0,[{file,"src/wf_core.erl"},{line,90}]},
+               {wf_core,run,0,[{file,"src/wf_core.erl"},{line,23}]},
+               {yaws_server,deliver_dyn_part,8,
+                            [{file,"src/yaws_server.erl"},{line,2918}]},
+               {yaws_server,aloop,4,
+                            [{file,"src/yaws_server.erl"},{line,1274}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::11:16:03 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::11:16:03 ===
+n_common: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::11:16:37 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::11:16:37 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::11:27:24 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::11:27:24 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:17:39 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:17:39 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:18:26 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:18:26 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:18:51 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:18:51 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:21:10 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:21:10 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:21:55 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:21:55 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:22:23 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:22:23 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:30:03 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:30:03 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:31:08 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:31:08 ===
+login: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 9-Jan-2021::12:36:08 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:34: Error: syntax error before: fa
+
+=INFO REPORT==== 9-Jan-2021::12:36:19 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:36:19 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:42:33 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:42:33 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:44:04 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:44:04 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:44:32 ===
+{error,postback_request,
+    {url,
+        "localhost:8000/login?x=8vEi5pLGUVnNvoFmKjxXSr6bVV_BVVQGcreaBC2oF-sC4-jsDbICsqXSpxqEXXbfISpfXZHODcG-bNoCe4bJZ2Qr_kE"},
+    {error,undef,
+        [{login,event,[createaccount],[]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,[{file,"src/nitrogen.erl"},{line,69}]},
+         {nitrogen,ws_message,3,[{file,"src/nitrogen.erl"},{line,59}]},
+         {yaws_simple_bridge_anchor,handle_message,2,
+             [{file,"src/yaws_bridge_modules/yaws_simple_bridge_anchor.erl"},
+              {line,57}]},
+         {yaws_websockets,basic_messages,3,
+             [{file,"src/yaws_websockets.erl"},{line,623}]},
+         {yaws_websockets,handle_frames,2,
+             [{file,"src/yaws_websockets.erl"},{line,520}]},
+         {gen_server,try_dispatch,4,[{file,"gen_server.erl"},{line,680}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::12:50:41 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:50:41 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:50:54 ===
+{error,postback_request,
+    {url,
+        "localhost:8000/login?x=8vEi5pLGUVnNvoFmKjxXSr6bVV_BVVQGcreaBC2oF-sC4-jsDbICsqXSpxqEXXbfISpfXZHODcG-bNoCe4bJZ2Qr_kE"},
+    {error,undef,
+        [{login,event,[signin],[]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,[{file,"src/nitrogen.erl"},{line,69}]},
+         {nitrogen,ws_message,3,[{file,"src/nitrogen.erl"},{line,59}]},
+         {yaws_simple_bridge_anchor,handle_message,2,
+             [{file,"src/yaws_bridge_modules/yaws_simple_bridge_anchor.erl"},
+              {line,57}]},
+         {yaws_websockets,basic_messages,3,
+             [{file,"src/yaws_websockets.erl"},{line,623}]},
+         {yaws_websockets,handle_frames,2,
+             [{file,"src/yaws_websockets.erl"},{line,520}]},
+         {gen_server,try_dispatch,4,[{file,"gen_server.erl"},{line,680}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::12:52:58 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:52:58 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:54:26 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:54:26 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:54:40 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:54:40 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::12:55:08 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::12:55:08 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:00:31 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:00:31 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:01:05 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:01:05 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:04:04 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:04:04 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:04:13 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:04:13 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:07:26 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:07:26 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:08:30 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:08:30 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:08:35 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:08:35 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:13:45 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:13:45 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:17:06 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:17:06 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:21:38 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:21:38 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:26:17 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::13:26:17 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::13:27:02 ===
+{error,postback_request,
+    {url,
+        "localhost:8000/login?x=OSSUUgdfWo2nOBjvzlN40axiFRvbky1nN7RbBy0fUX4scQmh_upYalL8FHDufxOnlnwydbvxCs2vGdHbBtT7vcKnQvY"},
+    {throw,
+        {default_query_handler,too_many_matches,password},
+        [{default_query_handler,get_value,3,
+             [{file,"src/handlers/query/default_query_handler.erl"},
+              {line,60}]},
+         {validator_confirm_same,validate,2,
+             [{file,"src/validators/validator_confirm_same.erl"},{line,41}]},
+         {wf_validation,'-validate/0-fun-1-',2,
+             [{file,"src/lib/wf_validation.erl"},{line,32}]},
+         {lists,foldl,3,[{file,"lists.erl"},{line,1267}]},
+         {wf_validation,validate,0,
+             [{file,"src/lib/wf_validation.erl"},{line,42}]},
+         {wf_core,run_postback_request,0,
+             [{file,"src/wf_core.erl"},{line,247}]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,
+             [{file,"src/nitrogen.erl"},{line,69}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::13:27:46 ===
+{error,postback_request,
+    {url,
+        "localhost:8000/login?x=OSSUUgdfWo2nOBjvzlN40axiFRvbky1nN7RbBy0fUX4scQmh_upYalL8FHDufxOnlnwydbvxCs2vGdHbBtT7vcKnQvY"},
+    {throw,
+        {default_query_handler,too_many_matches,password},
+        [{default_query_handler,get_value,3,
+             [{file,"src/handlers/query/default_query_handler.erl"},
+              {line,60}]},
+         {validator_confirm_same,validate,2,
+             [{file,"src/validators/validator_confirm_same.erl"},{line,41}]},
+         {wf_validation,'-validate/0-fun-1-',2,
+             [{file,"src/lib/wf_validation.erl"},{line,32}]},
+         {lists,foldl,3,[{file,"lists.erl"},{line,1267}]},
+         {wf_validation,validate,0,
+             [{file,"src/lib/wf_validation.erl"},{line,42}]},
+         {wf_core,run_postback_request,0,
+             [{file,"src/wf_core.erl"},{line,247}]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,
+             [{file,"src/nitrogen.erl"},{line,69}]}]}}
+
+=WARNING REPORT==== 9-Jan-2021::14:11:28 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:27: Warning: variable 'SignedOut' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:27: Warning: use of operator '==' has no effect
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled with 1 warnings
+
+=INFO REPORT==== 9-Jan-2021::14:11:28 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::14:12:46 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:12:46 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::14:14:22 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:14:22 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::14:15:03 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:15:03 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::14:16:09 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:16:09 ===
+login: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 9-Jan-2021::14:24:46 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:103: Error: function event/1 already defined
+
+=INFO REPORT==== 9-Jan-2021::14:24:53 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:24:53 ===
+login: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 9-Jan-2021::14:26:28 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:110: Error: syntax error before: ':'
+
+=INFO REPORT==== 9-Jan-2021::14:26:38 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:26:38 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::14:27:32 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:27:32 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::14:28:23 ===
+{error,postback_request,
+    {url,
+        "localhost:8000/login?x=ZVHGR5R5bQL5fTX1QrbpsHCmQdlnBHuVmnFMTDx_Bids-F0krOJnEgaHfjgRtZKr7il7qJU1T655VmcTfJtPbf3-a9o"},
+    {throw,
+        {default_query_handler,too_many_matches,password},
+        [{default_query_handler,get_value,3,
+             [{file,"src/handlers/query/default_query_handler.erl"},
+              {line,60}]},
+         {validator_confirm_same,validate,2,
+             [{file,"src/validators/validator_confirm_same.erl"},{line,41}]},
+         {wf_validation,'-validate/0-fun-1-',2,
+             [{file,"src/lib/wf_validation.erl"},{line,32}]},
+         {lists,foldl,3,[{file,"lists.erl"},{line,1267}]},
+         {wf_validation,validate,0,
+             [{file,"src/lib/wf_validation.erl"},{line,42}]},
+         {wf_core,run_postback_request,0,
+             [{file,"src/wf_core.erl"},{line,247}]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,
+             [{file,"src/nitrogen.erl"},{line,69}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::14:30:04 ===
+{error,postback_request,
+    {url,
+        "localhost:8000/login?x=ZVHGR5R5bQL5fTX1QrbpsHCmQdlnBHuVmnFMTDx_Bids-F0krOJnEgaHfjgRtZKr7il7qJU1T655VmcTfJtPbf3-a9o"},
+    {throw,
+        {default_query_handler,too_many_matches,password},
+        [{default_query_handler,get_value,3,
+             [{file,"src/handlers/query/default_query_handler.erl"},
+              {line,60}]},
+         {validator_confirm_same,validate,2,
+             [{file,"src/validators/validator_confirm_same.erl"},{line,41}]},
+         {wf_validation,'-validate/0-fun-1-',2,
+             [{file,"src/lib/wf_validation.erl"},{line,32}]},
+         {lists,foldl,3,[{file,"lists.erl"},{line,1267}]},
+         {wf_validation,validate,0,
+             [{file,"src/lib/wf_validation.erl"},{line,42}]},
+         {wf_core,run_postback_request,0,
+             [{file,"src/wf_core.erl"},{line,247}]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,
+             [{file,"src/nitrogen.erl"},{line,69}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::14:34:00 ===
+stop_ready([], <0.9219.1>)
+
+=INFO REPORT==== 9-Jan-2021::14:41:35 ===
+Yaws: Listening to 0.0.0.0:8000 for <1> virtual servers:
+ - http://simple_bridge:8000 under ./site/static
+
+=INFO REPORT==== 9-Jan-2021::14:41:40 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:41:57 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 9-Jan-2021::14:43:04 ===
+{error,postback_request,
+    {url,
+        "localhost:8000/login?x=qiyXMTtJNyJ9IHWav2zaKuKTHPoz5T-GZOW5eMCPYluhRo968NqUjNBgYLGm5VvWGk9x4r_V3gps0c18KxeGIF3JcIQ"},
+    {throw,
+        {default_query_handler,too_many_matches,password},
+        [{default_query_handler,get_value,3,
+             [{file,"src/handlers/query/default_query_handler.erl"},
+              {line,60}]},
+         {validator_confirm_same,validate,2,
+             [{file,"src/validators/validator_confirm_same.erl"},{line,41}]},
+         {wf_validation,'-validate/0-fun-1-',2,
+             [{file,"src/lib/wf_validation.erl"},{line,32}]},
+         {lists,foldl,3,[{file,"lists.erl"},{line,1267}]},
+         {wf_validation,validate,0,
+             [{file,"src/lib/wf_validation.erl"},{line,42}]},
+         {wf_core,run_postback_request,0,
+             [{file,"src/wf_core.erl"},{line,247}]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,
+             [{file,"src/nitrogen.erl"},{line,69}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::14:45:19 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:45:19 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::14:45:52 ===
+{error,postback_request,
+    {url,
+        "localhost:8000/login?x=qiyXMTtJNyJ9IHWav2zaKuKTHPoz5T-GZOW5eMCPYluhRo968NqUjNBgYLGm5VvWGk9x4r_V3gps0c18KxeGIF3JcIQ"},
+    {throw,
+        {default_query_handler,too_many_matches,username},
+        [{default_query_handler,get_value,3,
+             [{file,"src/handlers/query/default_query_handler.erl"},
+              {line,60}]},
+         {wf,'-mq/1-lc$^0/1-0-',1,[{file,"src/wf.erl"},{line,361}]},
+         {login,event,1,
+             [{file,"/home/cv/tmp/erlang/web/alanapp/site/src/login.erl"},
+              {line,104}]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,[{file,"src/nitrogen.erl"},{line,69}]},
+         {nitrogen,ws_message,3,[{file,"src/nitrogen.erl"},{line,59}]},
+         {yaws_simple_bridge_anchor,handle_message,2,
+             [{file,"src/yaws_bridge_modules/yaws_simple_bridge_anchor.erl"},
+              {line,57}]},
+         {yaws_websockets,basic_messages,3,
+             [{file,"src/yaws_websockets.erl"},{line,623}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::14:50:46 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:50:46 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::14:51:35 ===
+{error,postback_request,
+    {url,
+        "localhost:8000/login?x=WzHkRegpMhEpdffn1u6lgwvxSMNzaHTf7yy0VCVGfkkY4eoFnDrZiWKqlVB6jykHpUFtq588dn-6pP2MXVKj4Qxj9iU"},
+    {error,undef,
+        [{n_utils,create_id,[],[]},
+         {account_db_mnesia,new_account,3,
+             [{file,
+                  "/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/account_db_mnesia.erl"},
+              {line,4}]},
+         {login,event,1,
+             [{file,"/home/cv/tmp/erlang/web/alanapp/site/src/login.erl"},
+              {line,105}]},
+         {wf_core,run_websocket,1,[{file,"src/wf_core.erl"},{line,81}]},
+         {nitrogen,ws_message_catched,1,[{file,"src/nitrogen.erl"},{line,69}]},
+         {nitrogen,ws_message,3,[{file,"src/nitrogen.erl"},{line,59}]},
+         {yaws_simple_bridge_anchor,handle_message,2,
+             [{file,"src/yaws_bridge_modules/yaws_simple_bridge_anchor.erl"},
+              {line,57}]},
+         {yaws_websockets,basic_messages,3,
+             [{file,"src/yaws_websockets.erl"},{line,623}]}]}}
+
+=INFO REPORT==== 9-Jan-2021::14:54:56 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_utils.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:55:03 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_utils.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:55:34 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_utils.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::14:55:34 ===
+n_utils: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:00:23 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:00:23 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:02:20 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:02:20 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:03:35 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:03:35 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:09:07 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:09:07 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:11:58 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:11:58 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:14:12 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:14:13 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:14:54 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:14:54 ===
+login: Reloaded! (Beam changed.)
+
+=WARNING REPORT==== 9-Jan-2021::15:21:21 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:32: Warning: variable 'SignedOut' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled with 1 warnings
+
+=INFO REPORT==== 9-Jan-2021::15:21:21 ===
+index: Reloaded! (Beam changed.)
+
+=WARNING REPORT==== 9-Jan-2021::15:21:37 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:32: Warning: variable 'SignedOut' is unused
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled with 1 warnings
+
+=INFO REPORT==== 9-Jan-2021::15:21:37 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:22:10 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:22:10 ===
+index: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 9-Jan-2021::15:30:47 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/cuentas.erl:0: Error: Module definition (index) differs from expected (cuentas)
+
+=INFO REPORT==== 9-Jan-2021::15:30:53 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/cuentas.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:31:19 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/cuentas.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:31:19 ===
+cuentas: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 9-Jan-2021::15:32:57 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:12: Error: syntax error before: '{'
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:16: Error: function menulist/0 undefined
+
+=INFO REPORT==== 9-Jan-2021::15:33:05 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:33:05 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:34:09 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/cuentas.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:34:09 ===
+cuentas: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:34:55 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/cuentas.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:34:55 ===
+cuentas: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:37:56 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/cuentas.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:37:56 ===
+cuentas: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:39:44 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:39:44 ===
+n_menus: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:40:21 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/cuentas.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:40:21 ===
+cuentas: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:41:28 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::15:41:28 ===
+index: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::15:43:18 ===
+stop_ready([], <0.17030.0>)
+
+=INFO REPORT==== 9-Jan-2021::19:25:35 ===
+Yaws: Listening to 0.0.0.0:8000 for <1> virtual servers:
+ - http://simple_bridge:8000 under ./site/static
+
+=INFO REPORT==== 9-Jan-2021::19:25:43 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/cuentas.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::19:25:43 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/bills_db_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::19:25:43 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/n_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::19:25:44 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/payments_db_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::19:25:44 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::19:25:44 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/nitrogen_sup.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::19:26:01 ===
+Recaching Template: ./site/templates/bare.html
+
+=ERROR REPORT==== 9-Jan-2021::19:49:30 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/bills_db_mnesia.erl:12: Error: function link/1 undefined
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/bills_db_mnesia.erl:12: Error: function link/2 undefined
+
+=INFO REPORT==== 9-Jan-2021::19:55:37 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/bills_db_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::19:55:37 ===
+bills_db_mnesia: Reloaded! (Beam changed.)
+
+=ERROR REPORT==== 9-Jan-2021::19:56:52 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/payments_db_mnesia.erl:12: Error: function boletapdf/1 undefined
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/payments_db_mnesia.erl:12: Error: function boletapdf/2 undefined
+
+=INFO REPORT==== 9-Jan-2021::19:57:49 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/payments_db_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::19:57:49 ===
+payments_db_mnesia: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::21:23:40 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::21:23:40 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::21:23:54 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 9-Jan-2021::21:23:54 ===
+login: Reloaded! (Beam changed.)
+
+=INFO REPORT==== 9-Jan-2021::22:20:10 ===
+    application: sync
+    exited: stopped
+    type: temporary
+
+=INFO REPORT==== 9-Jan-2021::22:20:14 ===
+stop_ready([], <0.24602.0>)
+
+=INFO REPORT==== 18-Jan-2021::19:15:26 ===
+Yaws: Listening to 0.0.0.0:8000 for <1> virtual servers:
+ - http://simple_bridge:8000 under ./site/static
+
+=INFO REPORT==== 18-Jan-2021::19:15:33 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/cuentas.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:15:33 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/index.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:15:33 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/login.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:15:33 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/bills_db_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:15:33 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/n_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:15:33 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_dbs/payments_db_mnesia.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:15:33 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_common.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:15:34 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_menus.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:15:34 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/n_libs/n_utils.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:15:34 ===
+/home/cv/tmp/erlang/web/alanapp/site/src/nitrogen_sup.erl:0: Recompiled.
+
+=INFO REPORT==== 18-Jan-2021::19:16:41 ===
+Recaching Template: ./site/templates/bare.html
+
+=INFO REPORT==== 18-Jan-2021::19:17:28 ===
+stop_ready([], <0.6197.0>)
